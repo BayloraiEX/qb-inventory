@@ -1,3 +1,7 @@
+# QB-INVENTORY RESKIN
+- I take no credit for this reskin, the original reskin is made by ItzMuri https://github.com/ItzMuri/qb-inventory
+- I Simply removed the glare and flicker of the items info as i didn't like it, and changed the colors to fit my server theme more.
+
 # qb-inventory
 
 ## Dependencies
